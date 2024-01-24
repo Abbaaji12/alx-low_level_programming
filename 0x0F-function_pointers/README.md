@@ -1,1 +1,2 @@
 C - Function pointers
+A function pointer, also called a subroutine pointer or procedure pointer, is a pointer referencing executable code, rather than data. Dereferencing the function pointer yields the referenced function, which can be invoked and passed arguments just as in a normal function call. Such an invocation is also known as an "indirect" call, because the function is being invoked indirectly through a variable instead of directly through a fixed identifier or address.
